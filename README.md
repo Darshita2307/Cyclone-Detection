@@ -16,4 +16,7 @@ Back-end: PostgreSQL, Flask, psycopg2 and Python
 
 Machine-learning-pipeline: PyTorch
 
-
+## Team Members
+1) Sagun Rai EN20CS301370
+2) Samyak Tongiya EN20CS301384
+3) Darshita Porwal EN20CS304022
