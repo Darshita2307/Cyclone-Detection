@@ -10,11 +10,9 @@ The Model will return the estimated Intensity of satellite cyclone image in KNOT
 
 ## Tech Stack Used
 
-Front-end: HTML , CSS, Bootstrap and JavaScript
+Front-end: HTML , CSS
 
-Back-end: PostgreSQL, Flask, psycopg2 and Python
-
-Machine-learning-pipeline: PyTorch
+Back-end: Python
 
 ## Team Members
 1) Sagun Rai EN20CS301370
